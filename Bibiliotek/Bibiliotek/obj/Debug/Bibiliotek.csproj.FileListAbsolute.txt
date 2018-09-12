@@ -1,0 +1,6 @@
+\\fs1.ad.ssis.nu\16male\documents\visual studio 2015\Projects\Bibiliotek\Bibiliotek\bin\Debug\Bibiliotek.exe.config
+\\fs1.ad.ssis.nu\16male\documents\visual studio 2015\Projects\Bibiliotek\Bibiliotek\obj\Debug\Bibiliotek.csprojResolveAssemblyReference.cache
+\\fs1.ad.ssis.nu\16male\documents\visual studio 2015\Projects\Bibiliotek\Bibiliotek\bin\Debug\Bibiliotek.exe
+\\fs1.ad.ssis.nu\16male\documents\visual studio 2015\Projects\Bibiliotek\Bibiliotek\bin\Debug\Bibiliotek.pdb
+\\fs1.ad.ssis.nu\16male\documents\visual studio 2015\Projects\Bibiliotek\Bibiliotek\obj\Debug\Bibiliotek.exe
+\\fs1.ad.ssis.nu\16male\documents\visual studio 2015\Projects\Bibiliotek\Bibiliotek\obj\Debug\Bibiliotek.pdb

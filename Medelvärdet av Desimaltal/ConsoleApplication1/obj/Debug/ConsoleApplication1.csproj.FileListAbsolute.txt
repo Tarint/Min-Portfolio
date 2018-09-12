@@ -1,0 +1,12 @@
+\\fs1.ad.ssis.nu\16male\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+\\fs1.ad.ssis.nu\16male\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+\\fs1.ad.ssis.nu\16male\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+\\fs1.ad.ssis.nu\16male\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+\\fs1.ad.ssis.nu\16male\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+\\fs1.ad.ssis.nu\16male\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+\\fs1.ad.ssis.nu\16male\Documents\Visual Studio 2015\Projects\Medelvärdet av Desimaltal\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+\\fs1.ad.ssis.nu\16male\Documents\Visual Studio 2015\Projects\Medelvärdet av Desimaltal\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+\\fs1.ad.ssis.nu\16male\Documents\Visual Studio 2015\Projects\Medelvärdet av Desimaltal\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+\\fs1.ad.ssis.nu\16male\Documents\Visual Studio 2015\Projects\Medelvärdet av Desimaltal\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+\\fs1.ad.ssis.nu\16male\Documents\Visual Studio 2015\Projects\Medelvärdet av Desimaltal\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+\\fs1.ad.ssis.nu\16male\Documents\Visual Studio 2015\Projects\Medelvärdet av Desimaltal\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache

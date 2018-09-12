@@ -1,0 +1,30 @@
+\\fs1.ad.ssis.nu\16male\documents\visual studio 2015\Projects\EttEgetSpel1\EttEgetSpel1\EttEgetSpel1\bin\x86\Debug\EttEgetSpel1.exe
+\\fs1.ad.ssis.nu\16male\documents\visual studio 2015\Projects\EttEgetSpel1\EttEgetSpel1\EttEgetSpel1\bin\x86\Debug\EttEgetSpel1.pdb
+\\fs1.ad.ssis.nu\16male\documents\visual studio 2015\Projects\EttEgetSpel1\EttEgetSpel1\EttEgetSpel1\bin\x86\Debug\Microsoft.Xna.Framework.dll
+\\fs1.ad.ssis.nu\16male\documents\visual studio 2015\Projects\EttEgetSpel1\EttEgetSpel1\EttEgetSpel1\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+\\fs1.ad.ssis.nu\16male\documents\visual studio 2015\Projects\EttEgetSpel1\EttEgetSpel1\EttEgetSpel1\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+\\fs1.ad.ssis.nu\16male\documents\visual studio 2015\Projects\EttEgetSpel1\EttEgetSpel1\EttEgetSpel1\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+\\fs1.ad.ssis.nu\16male\documents\visual studio 2015\Projects\EttEgetSpel1\EttEgetSpel1\EttEgetSpel1\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+\\fs1.ad.ssis.nu\16male\documents\visual studio 2015\Projects\EttEgetSpel1\EttEgetSpel1\EttEgetSpel1\bin\x86\Debug\Microsoft.Xna.Framework.xml
+\\fs1.ad.ssis.nu\16male\documents\visual studio 2015\Projects\EttEgetSpel1\EttEgetSpel1\EttEgetSpel1\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+\\fs1.ad.ssis.nu\16male\documents\visual studio 2015\Projects\EttEgetSpel1\EttEgetSpel1\EttEgetSpel1\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+\\fs1.ad.ssis.nu\16male\documents\visual studio 2015\Projects\EttEgetSpel1\EttEgetSpel1\EttEgetSpel1\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+\\fs1.ad.ssis.nu\16male\documents\visual studio 2015\Projects\EttEgetSpel1\EttEgetSpel1\EttEgetSpel1\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+\\fs1.ad.ssis.nu\16male\documents\visual studio 2015\Projects\EttEgetSpel1\EttEgetSpel1\EttEgetSpel1\obj\x86\Debug\EttEgetSpel1.csprojResolveAssemblyReference.cache
+\\fs1.ad.ssis.nu\16male\documents\visual studio 2015\Projects\EttEgetSpel1\EttEgetSpel1\EttEgetSpel1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+\\fs1.ad.ssis.nu\16male\documents\visual studio 2015\Projects\EttEgetSpel1\EttEgetSpel1\EttEgetSpel1\obj\x86\Debug\EttEgetSpel1.exe
+\\fs1.ad.ssis.nu\16male\documents\visual studio 2015\Projects\EttEgetSpel1\EttEgetSpel1\EttEgetSpel1\obj\x86\Debug\EttEgetSpel1.pdb
+\\fs1.ad.ssis.nu\16male\Documents\Visual Studio 2015\Projects\EttEgetSpel1\EttEgetSpel1\EttEgetSpel1\bin\x86\Debug\Content\Sprites\ship.xnb
+\\fs1.ad.ssis.nu\16male\Documents\Visual Studio 2015\Projects\EttEgetSpel1\EttEgetSpel1\EttEgetSpel1\bin\x86\Debug\Content\Sprites\coin.xnb
+\\fs1.ad.ssis.nu\16male\Documents\Visual Studio 2015\Projects\EttEgetSpel1\EttEgetSpel1\EttEgetSpel1\bin\x86\Debug\Content\Sprites\tripod.xnb
+\\fs1.ad.ssis.nu\16male\Documents\Visual Studio 2015\Projects\EttEgetSpel1\EttEgetSpel1\EttEgetSpel1\bin\x86\Debug\Content\Sprites\bullet.xnb
+\\fs1.ad.ssis.nu\16male\Documents\Visual Studio 2015\Projects\EttEgetSpel1\EttEgetSpel1\EttEgetSpel1\bin\x86\Debug\Content\Sounds\yehaw.xnb
+\\fs1.ad.ssis.nu\16male\Documents\Visual Studio 2015\Projects\EttEgetSpel1\EttEgetSpel1\EttEgetSpel1\bin\x86\Debug\Content\Sounds\Star Wars Blaster sound effect.xnb
+\\fs1.ad.ssis.nu\16male\Documents\Visual Studio 2015\Projects\EttEgetSpel1\EttEgetSpel1\EttEgetSpel1\bin\x86\Debug\Content\Sounds\Explosion.xnb
+\\fs1.ad.ssis.nu\16male\documents\visual studio 2015\Projects\EttEgetSpel1\EttEgetSpel1\EttEgetSpel1\bin\x86\Debug\Content\Sprites\Explosion.xnb
+\\fs1.ad.ssis.nu\16male\documents\visual studio 2015\Projects\EttEgetSpel1\EttEgetSpel1\EttEgetSpel1\bin\x86\Debug\Content\Bilder\space.xnb
+\\fs1.ad.ssis.nu\16male\documents\visual studio 2015\Projects\EttEgetSpel1\EttEgetSpel1\EttEgetSpel1\bin\x86\Debug\Content\Bilder\start.xnb
+\\fs1.ad.ssis.nu\16male\documents\visual studio 2015\Projects\EttEgetSpel1\EttEgetSpel1\EttEgetSpel1\bin\x86\Debug\Content\Bilder\Game Over.xnb
+\\fs1.ad.ssis.nu\16male\documents\visual studio 2015\Projects\EttEgetSpel1\EttEgetSpel1\EttEgetSpel1\bin\x86\Debug\Content\Music\MW2.xnb
+\\fs1.ad.ssis.nu\16male\documents\visual studio 2015\Projects\EttEgetSpel1\EttEgetSpel1\EttEgetSpel1\bin\x86\Debug\Content\Fonts\TEXT.xnb
+\\fs1.ad.ssis.nu\16male\documents\visual studio 2015\Projects\EttEgetSpel1\EttEgetSpel1\EttEgetSpel1\bin\x86\Debug\Content\Sprites\Health.xnb

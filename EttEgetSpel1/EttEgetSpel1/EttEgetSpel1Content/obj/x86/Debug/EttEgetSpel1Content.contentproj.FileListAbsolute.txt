@@ -1,0 +1,1 @@
+\\fs1.ad.ssis.nu\16male\documents\visual studio 2015\Projects\EttEgetSpel1\EttEgetSpel1\EttEgetSpel1Content\obj\x86\Debug\EttEgetSpel1Content.contentprojResolveAssemblyReference.cache

@@ -1,0 +1,14 @@
+Content\Sprites\ship.xnb
+Content\Sprites\coin.xnb
+Content\Sprites\tripod.xnb
+Content\Sprites\bullet.xnb
+Content\Sounds\yehaw.xnb
+Content\Sounds\Star Wars Blaster sound effect.xnb
+Content\Sounds\Explosion.xnb
+Content\Sprites\Explosion.xnb
+Content\Bilder\space.xnb
+Content\Bilder\start.xnb
+Content\Bilder\Game Over.xnb
+Content\Music\MW2.xnb
+Content\Fonts\TEXT.xnb
+Content\Sprites\Health.xnb

@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Sprites\ship.png</Source>
+      <Name>Sprites\ship</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\fs1.ad.ssis.nu\16male\Documents\Visual Studio 2015\Projects\EttEgetSpel1\EttEgetSpel1\EttEgetSpel1\bin\x86\Debug\Content\Sprites\ship.xnb</Output>
+      <Time>2018-01-25T14:51:40.4148337+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\coin.png</Source>
+      <Name>Sprites\coin</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\fs1.ad.ssis.nu\16male\Documents\Visual Studio 2015\Projects\EttEgetSpel1\EttEgetSpel1\EttEgetSpel1\bin\x86\Debug\Content\Sprites\coin.xnb</Output>
+      <Time>2018-01-26T09:09:02.1746931+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\tripod.png</Source>
+      <Name>Sprites\tripod</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\fs1.ad.ssis.nu\16male\Documents\Visual Studio 2015\Projects\EttEgetSpel1\EttEgetSpel1\EttEgetSpel1\bin\x86\Debug\Content\Sprites\tripod.xnb</Output>
+      <Time>2018-01-26T09:09:55.1218241+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\bullet.png</Source>
+      <Name>Sprites\bullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\fs1.ad.ssis.nu\16male\Documents\Visual Studio 2015\Projects\EttEgetSpel1\EttEgetSpel1\EttEgetSpel1\bin\x86\Debug\Content\Sprites\bullet.xnb</Output>
+      <Time>2018-01-26T09:10:46.4787179+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\yehaw.wav</Source>
+      <Name>Sounds\yehaw</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\fs1.ad.ssis.nu\16male\Documents\Visual Studio 2015\Projects\EttEgetSpel1\EttEgetSpel1\EttEgetSpel1\bin\x86\Debug\Content\Sounds\yehaw.xnb</Output>
+      <Time>2018-01-26T10:14:40.3156776+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Star Wars Blaster sound effect.wav</Source>
+      <Name>Sounds\Star Wars Blaster sound effect</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\fs1.ad.ssis.nu\16male\Documents\Visual Studio 2015\Projects\EttEgetSpel1\EttEgetSpel1\EttEgetSpel1\bin\x86\Debug\Content\Sounds\Star Wars Blaster sound effect.xnb</Output>
+      <Time>2018-02-05T12:51:26.3917386+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Explosion .wav</Source>
+      <Name>Sounds\Explosion</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\fs1.ad.ssis.nu\16male\documents\visual studio 2015\Projects\EttEgetSpel1\EttEgetSpel1\EttEgetSpel1\bin\x86\Debug\Content\Sounds\Explosion.xnb</Output>
+      <Time>2018-02-08T15:55:01.2925826+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Explosion.png</Source>
+      <Name>Sprites\Explosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\fs1.ad.ssis.nu\16male\documents\visual studio 2015\Projects\EttEgetSpel1\EttEgetSpel1\EttEgetSpel1\bin\x86\Debug\Content\Sprites\Explosion.xnb</Output>
+      <Time>2018-02-09T09:04:02.4500306+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Bilder\space.jpg</Source>
+      <Name>Bilder\space</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\fs1.ad.ssis.nu\16male\documents\visual studio 2015\Projects\EttEgetSpel1\EttEgetSpel1\EttEgetSpel1\bin\x86\Debug\Content\Bilder\space.xnb</Output>
+      <Time>2018-02-16T09:12:38.7459093+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Bilder\start.jpg</Source>
+      <Name>Bilder\start</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\fs1.ad.ssis.nu\16male\documents\visual studio 2015\Projects\EttEgetSpel1\EttEgetSpel1\EttEgetSpel1\bin\x86\Debug\Content\Bilder\start.xnb</Output>
+      <Time>2018-03-26T20:35:44.0277992+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Bilder\Game Over.jpg</Source>
+      <Name>Bilder\Game Over</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\fs1.ad.ssis.nu\16male\documents\visual studio 2015\Projects\EttEgetSpel1\EttEgetSpel1\EttEgetSpel1\bin\x86\Debug\Content\Bilder\Game Over.xnb</Output>
+      <Time>2018-03-19T13:11:12.7777838+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\MW2.wav</Source>
+      <Name>Music\MW2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\fs1.ad.ssis.nu\16male\documents\visual studio 2015\Projects\EttEgetSpel1\EttEgetSpel1\EttEgetSpel1\bin\x86\Debug\Content\Music\MW2.xnb</Output>
+      <Time>2018-02-23T09:07:50.6651225+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\TEXT.spritefont</Source>
+      <Name>Fonts\TEXT</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\fs1.ad.ssis.nu\16male\documents\visual studio 2015\Projects\EttEgetSpel1\EttEgetSpel1\EttEgetSpel1\bin\x86\Debug\Content\Fonts\TEXT.xnb</Output>
+      <Time>2018-03-19T13:35:06.9761797+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Health.png</Source>
+      <Name>Sprites\Health</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\fs1.ad.ssis.nu\16male\documents\visual studio 2015\Projects\EttEgetSpel1\EttEgetSpel1\EttEgetSpel1\bin\x86\Debug\Content\Sprites\Health.xnb</Output>
+      <Time>2018-03-26T13:58:33.0772798+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{24E1A258-C402-49A3-8C8B-71B6A8974D7D}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>\\fs1.ad.ssis.nu\16male\documents\visual studio 2015\Projects\EttEgetSpel1\EttEgetSpel1\EttEgetSpel1Content\</RootDirectory>
+      <LoggerRootDirectory>\\fs1.ad.ssis.nu\16male\documents\visual studio 2015\Projects\EttEgetSpel1\EttEgetSpel1\EttEgetSpel1\</LoggerRootDirectory>
+      <IntermediateDirectory>\\fs1.ad.ssis.nu\16male\documents\visual studio 2015\Projects\EttEgetSpel1\EttEgetSpel1\EttEgetSpel1\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>\\fs1.ad.ssis.nu\16male\documents\visual studio 2015\Projects\EttEgetSpel1\EttEgetSpel1\EttEgetSpel1\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2018-01-19T09:58:12.2101182+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
